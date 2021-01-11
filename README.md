@@ -1,3 +1,10 @@
+
+# CANAL DE  YOUTUBE PAL INGENIERO:
+https://www.youtube.com/channel/UCTL8_Xr6vzTmCU2h3reHgPw
+
+# Linkedin
+https://www.linkedin.com/in/daniel-santiago-aguirre/
+
 # Tensroflow_tutoriales
 Tutoriales DE TENSORFLOW 2.* hechos para el canal PAL INGENIERO
 
